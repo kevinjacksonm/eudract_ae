@@ -1,7 +1,7 @@
 
 
 
-![Alt text](eudractlefthead.png? "Optional Title")
+![Alt text](/images/eudractlefthead.png? "Optional Title")
 
 # eudract_ae
 
