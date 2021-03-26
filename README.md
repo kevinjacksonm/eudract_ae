@@ -1,7 +1,7 @@
 
 
 
-![Alt text](/images/eudractlefthead.png? "Optional Title")
+![Alt text](https://github.com/kevinjacksonm/eudract_ae/blob/images/eudractlefthead.png "Optional Title")
 
 # eudract_ae
 
