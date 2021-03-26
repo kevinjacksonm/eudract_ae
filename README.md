@@ -1,8 +1,9 @@
+
+
+
+![Alt text](eudractlefthead.png? "Optional Title")
+
 # eudract_ae
-
-
-![Alt text](eudractlefthead.png?raw=true "Optional Title")
-
 
 Python source code to create XML adverse events adverse events file for upload to EudraCT website.
 
